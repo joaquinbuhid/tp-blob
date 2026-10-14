@@ -1,0 +1,26 @@
+.footer {
+  background-color: #16803c;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer-nav {
+  display: flex;
+  gap: 20px;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
