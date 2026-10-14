@@ -4,8 +4,8 @@ function Footer() {
 	return (
 		<footer className="footer">
 			<nav className="footer-nav">
-				<a href="#">Acerca de</a>
-				<a href="#">Contacto</a>
+				<a href="jgb.com.ar">Acerca de</a>
+				<a href="tdvsrl.com">Contacto</a>
 			</nav>
 			<p>Copyright 2026</p>
 			<p className="p1">Made by Jb_</p>
